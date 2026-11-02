@@ -1,0 +1,21 @@
+{
+  "name": "pattern-generator",
+  "version": "1.0.0",
+  "description": "A project for generating animated patterns using JavaScript and HTML5 canvas.",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Build step can be added here.'"
+  },
+  "keywords": [
+    "pattern",
+    "generator",
+    "canvas",
+    "animation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
